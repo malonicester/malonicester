@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malonicester" alt="malonicester" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/malonic_ester" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/malonic_ester?logo=twitter&style=for-the-badge" alt="https://twitter.com/malonic_ester" /></a> </p>
+
 
 - 🌱 I’m currently learning **SpringBoot**
 
