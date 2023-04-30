@@ -12,7 +12,7 @@ significant projects.
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://malonicester.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-tripathy-26150a239/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/malonic_ester)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ashish.tripathy39@gmail.com)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashish.tripathy39@gmail.com)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/malonicester/)
 
 
@@ -31,13 +31,16 @@ significant projects.
 [![HTML5](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 
 ## 📈 Stats
-
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=malonicester&theme=radical&show_icons=true)![Ashish's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=malonicester&theme=radical&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=malonicester&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=malonicester&hide_border=true&theme=radical" />
+</p>
 
 ## 🔝 Most used languages
 
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=malonicester&theme=radical&layout=compact)
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malonicester&layout=compact&hide_border=true&theme=radical" />
 
+---
 ![Ashish's GitHub stats](https://github.com/Asmit2952/Asmit2952/raw/output/github-contribution-grid-snake.svg)
 
 
